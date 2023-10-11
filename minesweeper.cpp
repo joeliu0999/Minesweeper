@@ -3,7 +3,6 @@
 //
 #include "minesweeper.h"
 
-
 int launch()
 {
     render();
