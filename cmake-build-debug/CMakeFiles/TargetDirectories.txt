@@ -1,0 +1,3 @@
+D:/programming languages/COP 3504/C++/Projoect4/cmake-build-debug/CMakeFiles/Projoect4.dir
+D:/programming languages/COP 3504/C++/Projoect4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming languages/COP 3504/C++/Projoect4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
